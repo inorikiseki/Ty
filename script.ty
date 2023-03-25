@@ -1,0 +1,11 @@
+-- script of ty
+
+sum a b
+  a + b
+  .
+
+a if 1 else 2.
+
+a for 1..5 do print "hey".
+
+
